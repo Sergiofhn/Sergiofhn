@@ -1,16 +1,15 @@
-## Hi there 👋
+## Sergio Fernández-Hidalgo
 
-<!--
-**Sergiofhn/Sergiofhn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Automation & Operations Engineer  
+Founder @ Quivara
 
-Here are some ideas to get you started:
+Diseño e implanto sistemas automáticos para pymes y empresas de servicios:
+menos trabajo manual, menos errores y más control operativo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Qué hago
+- Automatización de procesos end-to-end
+- Integración de herramientas (ERP, Google Workspace, APIs)
+- Sistemas fiables y documentados
+- IA aplicada solo cuando aporta valor real
+
+👉 [Ver portfolio de proyectos](https://github.com/Sergiofhn/portfolio)
